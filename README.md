@@ -141,8 +141,7 @@ Then add the scenario name to one of the experiments in the dictionary `EXPERIME
 
 ## Authors
 
-Group 4: Aayush Mishra, Sarvesh Dhumal, Fabian Darrell Widyadhana Reswara, and the fourth group member
-(add the name).
+Group 4: Aayush Mishra, Sarvesh Dhumal, Fabian Darrell Widyadhana Reswara, and Sarthak Dhasmana.
 
 ## Acknowledgments and license
 
